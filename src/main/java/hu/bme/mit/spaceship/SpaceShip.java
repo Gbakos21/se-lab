@@ -13,7 +13,7 @@ public interface SpaceShip {
   * @return was the firing successful
   */
   public boolean fireLaser(FiringMode firingMode);
-
+//gfdgfd
   /**
   * Fires the torpedo stores of the ship
   *
